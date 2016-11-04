@@ -1,4 +1,4 @@
-### Correlating The Economic and Olympic Performances of Nations
+### Correlating the economic and Olympic performances of nations
 
 Faraz Hossein-Babaei:
 - 2016-10-20: repository initiated and the 3 project files loaded thereupon
