@@ -1,6 +1,6 @@
 ### Correlating the economic and Olympic performances of nations
 
-##### To view report use: https://nbviewer.jupyter.org/github/farazhb/Olympics-GDP/blob/master/medals_gdp.ipynb
+##### View full report: https://nbviewer.jupyter.org/github/farazhb/Olympics-GDP/blob/master/medals_gdp.ipynb
 
 Faraz Hossein-Babaei:
 - 2016-11-9: Removed redundant code after merging 3 notebook files into one. Added cell to hide input code in nbviewer (javascript)
