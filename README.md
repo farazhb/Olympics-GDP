@@ -3,6 +3,7 @@
 ##### View full report: https://nbviewer.jupyter.org/github/farazhb/Olympics-GDP/blob/master/medals_gdp.ipynb
 
 Faraz Hossein-Babaei:
+- 2016-11-19 Added pleasant choropleths (~geographic heatmaps for predefined regions) for countries' economic-Olympic performances in {1960, 1992, 2016}
 - 2016-11-17 Corrections and outputting files for testing basemap
 - 2016-11-9  Removed redundant code after merging 3 notebook files into one. Added cell to hide input code in nbviewer (javascript)
 - 2016-11-7  Replaced multi-file version of repo with single-file version after minor correction to report segment and some captions
