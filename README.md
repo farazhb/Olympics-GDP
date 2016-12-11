@@ -3,6 +3,7 @@
 ##### View full report: https://nbviewer.jupyter.org/github/farazhb/Olympics-GDP/blob/master/medals_gdp.ipynb
 
 Faraz Hossein-Babaei:
+- 2016-12-11 Added USSR contribution for the pre 1992 years and so visually in choropleths, necessary for the overall global chromatic presentation. Corrections made overall. No-medal nations are represented on the maps now as long as they have an NOC.
 - 2016-11-19 Added pleasant choropleths (~geographic heatmaps for predefined regions) for countries' economic-Olympic performances in {1960, 1992, 2016}
 - 2016-11-17 Corrections and outputting files for testing basemap
 - 2016-11-9  Removed redundant code after merging 3 notebook files into one. Added cell to hide input code in nbviewer (javascript)
