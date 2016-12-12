@@ -1,6 +1,6 @@
 ### Correlating the economic and Olympic performances of nations
 
-##### View full report: https://nbviewer.jupyter.org/github/farazhb/Olympics-GDP/blob/master/medals_gdp.ipynb
+##### View report in nbviewer: https://nbviewer.jupyter.org/github/farazhb/Olympics-GDP/blob/master/medals_gdp.ipynb
 
 Faraz Hossein-Babaei:
 - 2016-12-11 Added USSR contribution for the pre 1992 years and so visually in choropleths, necessary for the overall global chromatic presentation. Corrections made overall. No-medal nations are represented on the maps now as long as they have an NOC.
