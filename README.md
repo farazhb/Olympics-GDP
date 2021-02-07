@@ -1,6 +1,15 @@
+
 ### Correlating the economic and Olympic performances of nations
 
+A report following the history of Olympics regarding medal winnings by different nations. The relative strenths of the nations accordingly are shown, and some notes about the correlation with hosting times of the nations are revealed.
+
+Quite of bit of data pre-processing was needed owing to the changing nature and rules of and participation at The Olympics through its modern history, since 1896.
+
+
+
 ##### View report in nbviewer: http://nbviewer.jupyter.org/url/farazhb.com/data/medals_gdp.ipynb
+
+### History
 
 Faraz Hossein-Babaei:
 - 2016-12-11 Added USSR contribution for the pre 1992 years and so visually in choropleths, necessary for the overall global chromatic presentation. Corrections made overall. No-medal nations are represented on the maps now as long as they have an NOC.
